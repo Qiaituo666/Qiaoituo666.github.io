@@ -20,9 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Code wizard_Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Code Wizard:代码巫师"
-description              : "这个网站是我的个人博客
-至于为什么要搭建这个博客。。。。可能就是为了记录一下学习的经过吧"
+name                     : "Code Wizard"
+description              : "aa"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
